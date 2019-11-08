@@ -26,3 +26,7 @@ freewheel.tv, 799841, RESELLER
 freewheel.tv, 799921, RESELLER 
 aol.com, 53392, RESELLER 
 rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
