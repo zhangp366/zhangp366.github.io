@@ -7,6 +7,7 @@ Pubnative.net, 1006951, RESELLER, d641df8625486a7b
 Pubnative.net, 1007303, DIRECT, d641df8625486a7b
 Pubnative.net, 1007311, DIRECT, d641df8625486a7b
 Pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 3704396951, Reseller
 Openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 advertising.com, 28246, RESELLER
 Appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
