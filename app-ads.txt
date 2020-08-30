@@ -13,6 +13,15 @@ pubnative.net,1007007, RESELLER, d641df8625486a7b
 pubnative.net,1006576, RESELLER, d641df8625486a7b
 pubnative.net,1007302, RESELLER, d641df8625486a7b
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+gamoshi.io, 267-b3609, RESELLER
+appnexus.com,11744, RESELLER, f5ab79cb980f11d1
+bidmachine.io, 138, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+mobfox.com, 303-b3610, RESELLER
+vyadd.com, 3579, RESELLER
+advenuemedia.co.uk, 397, RESELLER
+advenuemedia.co.uk, 398, RESELLER
+mars.media,1010380, RESELLER,8624339f102fb076
 video.unrulymedia.com, 3704396951, Reseller
 Openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 advertising.com, 28246, RESELLER
