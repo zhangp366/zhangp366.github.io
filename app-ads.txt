@@ -30,6 +30,15 @@ Rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 Adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 Rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 Improvedigital.com, 1366, RESELLER
+improvedigital.com, 1210, RESELLER
+reforge.in,353,RESELLER
+pubmatic.com, 157256, RESELLER, 5d62403b186f2ace
+Se7en.es, 212432, RESELLER, 064bc410192443d8
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1894, RESELLER
+smartadserver.com, 3445, RESELLER
+axonix.com, 59041, RESELLER
+lunamedia.io, a49272ae78e0ed4beb713268644928f0, RESELLER, 524ecb396915caaf
 Engagebdr.com, 10252, RESELLER #banner #video
 bidmachine.io, 55, RESELLER
 bidmachine.io, 59, RESELLER
