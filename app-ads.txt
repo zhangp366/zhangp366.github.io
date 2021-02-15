@@ -13,6 +13,9 @@ pubnative.net,1007007, RESELLER, d641df8625486a7b
 pubnative.net,1006576, RESELLER, d641df8625486a7b
 pubnative.net,1007302, RESELLER, d641df8625486a7b
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+lkqd.net, 647, RESELLER, 59c49fa9598a0117
+lkqd.net, 654, RESELLER, 59c49fa9598a0117
+advertising.com, 6814, RESELLER
 gamoshi.io, 267-b3609, RESELLER
 appnexus.com,11744, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 138, RESELLER
