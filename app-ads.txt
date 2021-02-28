@@ -88,3 +88,8 @@ rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 improvedigital.com, 1202, RESELLER
+e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
+gitberry.com, 577, RESELLER
+prequel.tv, 513, RESELLER
+improvedigital.com, 1880, RESELLER
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
