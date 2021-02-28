@@ -33,6 +33,11 @@ Rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 Adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
 Rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
 Improvedigital.com, 1366, RESELLER
+e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
+gitberry.com, 577, RESELLER
+prequel.tv, 513, RESELLER
+improvedigital.com, 1880, RESELLER
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 improvedigital.com, 1210, RESELLER
 reforge.in,353,RESELLER
 pubmatic.com, 157256, RESELLER, 5d62403b186f2ace
