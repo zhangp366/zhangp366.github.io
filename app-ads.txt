@@ -120,3 +120,25 @@ indexexchange.com, 194730, RESELLER
 Limpid.tv, 203706, RESELLER
 Pubnative.net, 1007303, RESELLER, d641df8625486a7b
 Pubnative.net, 1007311, RESELLER, d641df8625486a7b
+appnexus.com, 12622, RESELLER
+ssp.logan.ai, LG10, RESELLER
+smartadserver.com, 4083, RESELLER
+nobid.io, 22440222861, RESELLER
+appnexus.com, 12969, RESELLER
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+axonix.com, 56222, RESELLER
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
+nobid.io, 22388449880, RESELLER
+rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4083, RESELLER.
+conversantmedia.com, 100293, RESELLER, 03113cd04947736d
+indexexchange.com, 194974, RESELLER
+rtb.xe.works, 79, RESELLER, XE0001
+smartclip.net, 13039, RESELLER
+freewheel.tv, 1161393, RESELLER
+freewheel.tv, 1162449, RESELLER
+pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+appads.in, 107246, RESELLER
