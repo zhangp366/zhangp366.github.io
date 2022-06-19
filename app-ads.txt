@@ -298,3 +298,73 @@ video.unrulymedia.com, 5336134699710583737, RESELLER
 opera.com, pub6390586105984, RESELLER, 55a0c5fd61378de3
 undertone.com, 4113, RESELLER
 growintech.co, 36854, RESELLER
+admixer.co.kr, 1289, RESELLER
+indexexchange.com, 197200, RESELLER, 50b1c356f2c5c8fc
+opera.com, pub4443745972800, RESELLER, 55a0c5fd61378de3
+betweendigital.com, 44077, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1708, RESELLER
+appnexus.com, 13709, RESELLER, f5ab79cb980f11d1
+xandr.com, 13709, RESELLER
+zeststack.com, 394, RESELLER
+rubiconproject.com, 23986, RESELLER, 0bfd66d529a55807
+thebrave.io, 1234589, RESELLER, c25b2154543746ac
+appnexus.com, 13447, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
+inmobi.com, 4c0f91dba8c94e00a3c6d71a83f0d87a, RESELLER, 83e75a7ae333ca9d
+indexexchange.com, 197418, RESELLER, 50b1c356f2c5c8fc
+olaex.biz, 100133, RESELLER
+kubient.com, 5f716d8d5d837, RESELLER, 4f12311e6ed900a3
+kubient.com, 610d9b215355e, RESELLER, 4f12311e6ed900a3
+indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
+criteo.com, B-058443, RESELLER, 9fac4a4a87c2a44f
+indexexchange.com, 186081, RESELLER
+rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
+appnexus.com, 13293, RESELLER
+keenkale, 94044, RESELLER, 6c1c00b269ccdfa4
+yieldmo.com, 2899597854118977801, RESELLER
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 3881266972, RESELLER
+rhythmone.com, 3881266972, RESELLER, a670c89d4a324e47
+saharmedia.net, 1683862, RESELLER
+streambidmedia.com, 1783596, RESELLER
+yieldmo.com, 2916117740248834612, RESELLER
+criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
+opera.com, pub6920333082432, RESELLER, 55a0c5fd61378de3
+omnifytv.com, d5a3a5930fdc446da59b50688d96a372, RESELLER
+yieldmo.com, 2916117740248834612, RESELLER
+admixer.co.kr, 1289, RESELLER
+indexexchange.com, 197200, RESELLER, 50b1c356f2c5c8fc
+opera.com, pub4443745972800, RESELLER, 55a0c5fd61378de3
+betweendigital.com, 44077, RESELLER
+pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1708, RESELLER
+appnexus.com, 13709, RESELLER, f5ab79cb980f11d1
+xandr.com, 13709, RESELLER
+zeststack.com, 394, RESELLER
+rubiconproject.com, 23986, RESELLER, 0bfd66d529a55807
+olaex.biz, 100133, RESELLER
+video.unrulymedia.com, 4268206200, RESELLER
+rhythmone.com, 4268206200, RESELLER, a670c89d4a324e47
+indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 161816, RESELLER, 5d62403b186f2ace
+indexexchange.com, 186081, RESELLER
+indexexchange.com, 186081, RESELLER
+appnexus.com, 13293, RESELLER
+keenkale, 94044, RESELLER, 6c1c00b269ccdfa4
+saharmedia.net, 1683862, RESELLER
+streambidmedia.com, 1783596, RESELLER
+onairglobal.com, 12534797, RESELLER
+criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
+opera.com, pub6920333082432, RESELLER, 55a0c5fd61378de3
+omnifytv.com, d5a3a5930fdc446da59b50688d96a372, RESELLER
+video.unrulymedia.com, 5161057819193970664, RESELLER
+appnexus.com, 13794, RESELLER, f5ab79cb980f11d1
+improvedigital.com, 2093, RESELLER
+xandr.com,13735, RESELLER, f5ab79cb980f11d1
+sharethrough.com, LNtcDgIM, RESELLER, d53b998a7bd4ecd2
+kubient.com, 6230c3ef92e4c, RESELLER, 4f12311e6ed900a3
+kubient.com, 6230c3aff3f32, RESELLER, 4f12311e6ed900a3
+rubiconproject.com, 24606, RESELLER, 0bfd66d529a55807
+loopme.com, 11481, RESELLER,6c8d5f95897a5a3b
