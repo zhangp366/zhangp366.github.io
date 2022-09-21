@@ -1,13 +1,13 @@
 # Site settings
-title: Cassie Blog
-SEOTitle: Cassie Blog
-header-img: img/post-bg-desk.jpg
-email: xiaodingding2017@gmail.com
+title: ZhangP366 Blog
+SEOTitle: ZhangP366 Blog
+header-img: 
+email: zhangp366@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Cassie Blog, Cassie, Android, iOS, Apple, iPhone"
-url: "http://xiaodingding2017.github.io"          # your host, for absolute URL
+keyword: "ZhangP366 Blog, ZhangP366, Android, iOS, Apple, iPhone"
+url: "http://zhangp366.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xiaodingding2017/xiaodingding2017.github.io.git" # you code repository
+github_repo: "https://github.com/zhangp366/zhangp366.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
