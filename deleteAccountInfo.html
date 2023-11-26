@@ -1,0 +1,106 @@
+<html lang="en">
+<head>
+	<title>account delete</title>
+	<style>
+		.title{text-align: center;}
+		p {text-indent: 2em}
+		.body {margin-left: 5%; margin-right: 5%; margin-top: 2%; margin-bottom: 5%}
+		.bold {font-weight: bold;}
+	</style>
+</head>
+<body class="body">
+	<div class="title">
+		<h1>App account and infomation delete</h1>
+		
+	</div>
+	<div>
+		
+		<h3>Data Delete</h3>
+		<font class="bold">data deleted within 180 days:</font> In normal, your account and information will be deleted within 180 days of your last login (opening our application).</br>
+		Please do not log into our app during this time or the date will be recalculated.</br>
+		<font class="bold">data deleted within 30 days:</font> When you request to delete your account and infomation through our app or website, your account and personal information will be deleted. </br>
+		However, for reasons such as security, fraud prevention or regulatory compliance, your information will be deleted within 30 days of your last login (opening our application).</br>
+		Please do not log into our app during this time or the date will be recalculated.</br>
+		</br>
+		<h3>Tip</h3>
+	The username is only used to register your request to delete account information. After submitting the deletion request, you only need to not use our application within 30 days, and your account and information will be cleared.
+	</br></br>
+
+<div class="container">
+    <h2 id="h2">Account Delete</h2>
+    <form onsubmit="validateForm()">
+        <input type="text" placeholder="Username" name="username" required  oninvalid="setCustomValidity('Please enter your userName!');" oninput="setCustomValidity('');"
+>
+	    </br>
+<!--         <input type="password" placeholder="Password" name="password" required> -->
+        <button type="submit">Submit</button>
+    </form>
+</div>
+		</br></br></br>
+		<h3>Technical support contact</h3>
+		<p>zhangp366@gmail.com</p>
+
+
+<script>
+    function validateForm() {
+        var username = document.forms[0].username.value;
+       // var password = document.forms[0].password.value;
+
+        if (username == '') {
+            alert('Please fill in username');
+            
+        }
+
+	    var tip = 'Hello, we have received your request and your account and personal information will be deleted.' + "\n" +
+	      'However, for reasons such as security, fraud prevention or regulatory compliance,' + "\n" +
+		'your information will be deleted within 30 days of your last login (opening our application).' + "\n" +
+		'Please do not log into our app during this time or the date will be recalculated.';
+	alert(tip);
+	window.close();
+        
+    }
+</script>
+		<style type="text/css">
+
+			body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+</style>
+
+	</div>
+</body>
+</html>
