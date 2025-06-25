@@ -1,1 +1,101 @@
 
+<html lang="en">
+<head>
+	<title>cleanup</title>
+	<style>
+		.title{text-align: center;}
+		p {text-indent: 2em}
+		.body {margin-left: 5%; margin-right: 5%; margin-top: 2%; margin-bottom: 5%}
+		.bold {font-weight: bold;}
+	</style>
+</head>
+<body class="body">
+	<div class="title">
+		<h1>Clean up User infomation</h1>
+		
+	</div>
+	<div>
+		<h3>Tip</h3>
+	The username is only used to register your request to clean up your data without account information. After submitting the clean up request, your data without account information will be cleared.
+	</br></br>
+    This function is for our app named <b>2048 Simple Game (com.peng.game.game2048)</b>.
+	</br>
+	</br>
+
+<div class="container">
+    <h2 id="h2">Cleanup Data</h2>
+    <form onsubmit="validateForm()">
+        <input type="text" placeholder="Username" name="username" required  oninvalid="setCustomValidity('Please enter your userName!');" oninput="setCustomValidity('');"
+>
+	    </br>
+<!--         <input type="password" placeholder="Password" name="password" required> -->
+        <button type="submit">Submit</button>
+    </form>
+</div>
+		</br></br></br>
+    <h3>App Developer</h3>
+		<p>ZHP Game Dev</p>
+		<h3>Technical support contact</h3>
+		<p>zhangp366@gmail.com</p>
+
+
+<script>
+    function validateForm() {
+        var username = document.forms[0].username.value;
+       // var password = document.forms[0].password.value;
+
+        if (username == '') {
+            alert('Please fill in username');
+            
+        }
+
+	    var tip = 'Hello, we have received your request and your data without account information will be deleted.';
+	alert(tip);
+	window.close();
+        
+    }
+</script>
+		<style type="text/css">
+
+			body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+</style>
+
+	</div>
+</body>
+</html>
